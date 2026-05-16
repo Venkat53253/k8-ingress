@@ -58,7 +58,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app1.venaws.site"
+  - host: "app1.venaws.in"
     http:
       paths:
       - pathType: Prefix
